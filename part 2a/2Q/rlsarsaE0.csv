@@ -1,0 +1,6 @@
+11 Nov, 2017 6:41:19 PM
+Results for 5000 rounds
+Rank,Robot Name,    Total Score    ,Survival,Surv Bonus,Bullet Dmg,Bullet Bonus,Ram Dmg * 2,Ram Bonus, 1sts , 2nds , 3rds 
+1st,sample.Kevin.Try2.Rl_check_sarsa,911476 (68%),209350,41870,564463,95562,232,0,4199,801,0
+2nd,sample.Tracker,424118 (32%),40050,8010,354624,20459,974,0,813,4187,0
+$
